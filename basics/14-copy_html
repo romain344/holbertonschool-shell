@@ -1,4 +1,2 @@
 #!/bin/bash
-pc -u *.htlm ..
-
-
+cp -u *.html
