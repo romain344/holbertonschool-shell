@@ -1,2 +1,3 @@
 #!/bin/bash
-touch boujour
+chomd u+x
+
